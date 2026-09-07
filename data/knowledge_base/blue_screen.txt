@@ -1,0 +1,27 @@
+Title: Blue Screen or System Crash
+
+Problem:
+The computer suddenly displays a blue error screen and restarts or becomes unavailable.
+
+Possible Causes:
+- Faulty device drivers
+- Hardware problems
+- Memory errors
+- Corrupted system files
+- Recently installed software
+- Operating system problems
+- Overheating
+
+Troubleshooting Steps:
+1. Record the error message or stop code displayed on the screen.
+2. Restart the computer.
+3. Check whether the problem happens repeatedly.
+4. Remove recently installed hardware if appropriate.
+5. Update or roll back recently changed device drivers.
+6. Install pending operating system updates.
+7. Run an approved system file check or diagnostic tool.
+8. Check whether the computer is overheating.
+9. Review recent software or hardware changes.
+
+Escalation:
+Repeated blue screen errors should be escalated to technical support, especially when they occur during startup or prevent normal operation.

@@ -1,0 +1,29 @@
+Title: Computer Running Slowly
+
+Problem:
+The computer takes a long time to start programs, open files, or respond to user actions.
+
+Possible Causes:
+- Too many applications running
+- Insufficient available RAM
+- High CPU usage
+- Low disk space
+- Too many startup applications
+- Background processes
+- Malware
+- Outdated software or drivers
+
+Troubleshooting Steps:
+1. Close applications that are not currently being used.
+2. Check CPU and memory usage using the system task manager.
+3. Restart the computer.
+4. Check available disk space.
+5. Remove unnecessary temporary files.
+6. Disable unnecessary startup applications.
+7. Install pending operating system updates.
+8. Update important device drivers.
+9. Run an approved security or malware scan.
+10. If the computer remains slow, check whether a hardware upgrade is required.
+
+Escalation:
+If high CPU, memory, or disk usage continues without an identifiable cause, escalate the issue to technical support for further investigation.

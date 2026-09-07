@@ -1,0 +1,24 @@
+Title: Wi-Fi Connected but No Internet
+
+Problem:
+The computer shows that it is connected to Wi-Fi, but websites and online applications cannot be accessed.
+
+Possible Causes:
+- Router or modem connectivity problem
+- Temporary network failure
+- Incorrect network configuration
+- DNS resolution problem
+- Network adapter issue
+
+Troubleshooting Steps:
+1. Check whether other devices connected to the same Wi-Fi can access the internet.
+2. Restart the Wi-Fi router and wait for it to reconnect.
+3. Disconnect the computer from the Wi-Fi network and reconnect.
+4. Restart the computer.
+5. Check whether the computer has received a valid IP address.
+6. Run the operating system's network troubleshooter.
+7. Try accessing a different website.
+8. If websites still cannot be accessed, check DNS settings or reset the network adapter.
+
+Escalation:
+If multiple devices cannot access the internet after restarting the router, the issue may be related to the internet service provider or network infrastructure.

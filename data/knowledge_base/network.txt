@@ -1,0 +1,28 @@
+Title: General Network Connectivity Problems
+
+Problem:
+A computer cannot connect to a network or has unstable network connectivity.
+
+Possible Causes:
+- Network cable problem
+- Wi-Fi signal problem
+- Router or switch issue
+- Network adapter problem
+- Incorrect IP configuration
+- DNS problem
+- Network outage
+
+Troubleshooting Steps:
+1. Check whether the network cable is connected securely if using a wired connection.
+2. Check Wi-Fi signal strength if using wireless networking.
+3. Disconnect and reconnect to the network.
+4. Restart the computer.
+5. Restart the router if appropriate.
+6. Check the network connection status.
+7. Verify that the computer has a valid IP configuration.
+8. Test connectivity to a known reliable website.
+9. Check whether other devices have the same problem.
+10. Run the operating system's network diagnostic tool.
+
+Escalation:
+If multiple users or devices experience the same connectivity problem, escalate the issue because it may indicate a wider network outage.

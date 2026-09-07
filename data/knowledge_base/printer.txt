@@ -1,0 +1,28 @@
+Title: Printer Not Printing
+
+Problem:
+A printer is connected to the computer but documents are not printing.
+
+Possible Causes:
+- Printer is offline
+- Printer is out of paper
+- Low or empty ink or toner
+- Incorrect printer selected
+- Print queue is stuck
+- Printer driver problem
+- Network connection problem
+
+Troubleshooting Steps:
+1. Check whether the printer is powered on.
+2. Check whether the printer displays an error message.
+3. Make sure paper is loaded correctly.
+4. Check the ink or toner level.
+5. Confirm that the correct printer is selected.
+6. Check whether the printer is shown as online.
+7. Clear any stuck documents from the print queue.
+8. Restart the printer.
+9. Restart the computer.
+10. Check whether the printer driver is installed correctly.
+
+Escalation:
+If the printer continues to show hardware errors after basic troubleshooting, contact the hardware or printer support team.
